@@ -175,6 +175,10 @@ section:nth-child(2n){
     background-color: rgb(147, 115, 140);
     width: 75%;
 }
+#react_id{
+    background-color: rgb(236, 77, 28);
+    width: 60%;
+}
 #javascript_id{
     background-color: rgb(11, 129, 118);
     width: 50%;
@@ -343,8 +347,8 @@ section:nth-child(2n){
     left: 0px;
 }
 #education .timeline-line{
-    top: 16%;
-    height: 58%;
+    top: 10%;
+    height: 74%;
 }
 #experience .timeline-box{
     border: 2px solid black;
